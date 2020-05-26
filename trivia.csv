@@ -1,0 +1,21 @@
+Question,Correct,Answer 1,Answer 2,Answer 3,Answer 4
+Who was Grace Hopper?,2,Astro physicist,Gardener,American Computer Scientist,Teacher
+"Which book was about computer and software engineering, written by Andrew Hunt and David Hunt published in 1999?",1,Coding For Dummies,The Pragmatic Programmer,Programming is Everything,Clean Code
+Which are one are ALL prime numbers?,1,"2, 4, 6, 8","11,13,17,19","10,20,30,40","10, 36, 8, 38"
+Who was the  World's first lady programmer?,3,Lady Byron,Marie Curie,Florence Nightingale,Ada Lovelace
+What is the philosophy of mathematics?,2,To calculate the correct answer by just using arithmetic,"The philosophy concerned with the foundations, methods, and implications of science.","The branch of philosophy that studies the assumptions, foundations, and implications of mathematics.",I don't know.
+Who was U.S 1st President?,1,Theodore Roosevelt,George Washington,Richard Nixon,Ronald Regan
+"Which actress starred in the movie, Devil wears Prada ?",2,Mindy Kaling,Rebel Wilson,Anne Hathaway,Megan Fox
+What was McHammer's real name?,0,Stanley Burrell,Sean Kington,Matt Damon,Steve Fitzgerald
+"Which coffee shop did Francis Ford Coppola spend his time while writing the script, The Godfather?",1,Cafe Zeotrope,Caffe Trieste,illy Caffe,Caffe Geico
+How many StarWars movies were made?,2,Eight,Six,Nine,100
+What are the stages of Control Flow?,2,"Move, Spin, Dance, Sing","list, function,random, integer","For loops, While Loops,  If, if/else","precedence,boolean, variables, smiles"
+Fill in the blanks for i in ______ () ,0,range,love,stars,happiness
+"A good FUNCTION should do, (which of the following)?",1,Multiple things,One Conceptual thing,Turn into a game,the Reverse
+Who was the creator of Python?,1,Martin Bach,Guido van Rossum,Hans Zimmer,Kyle Murphy
+Which is a variable?,2,The unknown number,Karel,A place to store information in a program,Java
+Which are some random.______ functions we learned in CS106A?,0,"randint(min,max), random(), uniform(min,max), seed(x)","loop,letters,variables,canvas","letters,var,sides,hearts","calc, var, loops, randint"
+Which are boolean operations?,3,"True/False, if else elif","True/False, condtions while move","True/False, Left Right","True/False, And Or Not"
+Which allows you to provide a function with some information when you are calling it?,2,Definition,Condition,Parameters,Return
+Is Printing the same as Return?,2,Depends,Yes,No,Don't Know
+Which examples were used on a famous Monty Python sketch instead of foo and bar?,3,Cereal and Milk,Toast and Sugar,Eggs and Sausages,Spam and Eggs
